@@ -1,0 +1,4 @@
+cluster.name: ${my-application}
+path.data: /tmp/${my-application}/data${node}
+path.data: /tmp/${my-application}/log${node}
+http.port: 920${node}
